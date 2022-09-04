@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Anthony DePasquale (anthony@depasquale.org)",
   "description": "Calculate the Hamming distance between two hex or binary values",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/DePasqualeOrg/hamming-distance"
