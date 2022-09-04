@@ -1,6 +1,6 @@
 {
   "name": "@depasquale/hamming-distance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Anthony DePasquale (anthony@depasquale.org)",
   "description": "Calculate the Hamming distance between two hex or binary values",
   "license": "MIT",
